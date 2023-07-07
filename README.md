@@ -1,6 +1,5 @@
-# Project Title
+# Environment vision translator system 
 
-Environment vision translator system 
 Building AI course project
 
 ## Summary
@@ -22,8 +21,7 @@ Its intended use is to be through glasses or any device that can scan the enviro
 ![Normal human vision range](/github3.jpg)
 ![City street](/github4.jpg)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="github1.jpg" width="300">
 
 This is how you create code examples:
 ```
