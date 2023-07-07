@@ -1,6 +1,6 @@
 # Environment vision translator system 
 
-Building AI course project
+Building AI course project 
 
 ## Summary
 
